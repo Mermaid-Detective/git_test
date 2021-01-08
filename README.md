@@ -1,0 +1,1 @@
+This is Khori's first git project!
